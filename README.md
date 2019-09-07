@@ -1,2 +1,2 @@
 # public-ui
-The public UI of SustainaSearch
+The public UI of SustainaSearch.com
